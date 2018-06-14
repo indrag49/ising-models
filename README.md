@@ -1,1 +1,2 @@
 # Ising-models
+This is a simple implementation of the Glauber's spin flip kinetics and Kawasaki spin exchange Model in Python. This repository was motivated by the lecture series "Phase Transitions" delivered by Prof. Sanjay Puri in "National Summer School on Statistical Physics, 2018" at Satyendra Nath Bose National Centre for Basic Sciences, Kolkata. The topic of the school was: "Introducing Research Topics of Statistical Physics To Young Physicists".
