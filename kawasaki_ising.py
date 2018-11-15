@@ -41,7 +41,7 @@ Moves=0
 while True:
         for event in pygame.event.get():
                 if event.type==QUIT:
-                        pygame.image.save(DISPLAYSURF, 'direct-disks.png')
+                        pygame.image.save(DISPLAYSURF, 'kawasaki.png')
                         pygame.quit()
                         sys.exit()
 
