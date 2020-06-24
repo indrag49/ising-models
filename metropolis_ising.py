@@ -2,7 +2,6 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 import math
-import random
 
 L=2**4
 N=L**2
